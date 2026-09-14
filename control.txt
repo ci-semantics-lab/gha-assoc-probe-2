@@ -1,1 +1,1 @@
-sensitivity control: privileged author
+control v2 - membership still PRIVATE
