@@ -1,0 +1,1 @@
+control v4 - membership PRIVATE again (A-B-A)
