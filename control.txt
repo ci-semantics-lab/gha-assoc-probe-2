@@ -1,1 +1,1 @@
-control v2 - membership still PRIVATE
+control v3 - membership now PUBLIC
